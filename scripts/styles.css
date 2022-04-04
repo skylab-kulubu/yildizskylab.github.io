@@ -354,7 +354,7 @@ section#contact {
   justify-content: space-between;
   width: 100%;
   line-height: 2rem;
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 .social li {
   display: flex;
@@ -368,7 +368,7 @@ section#contact {
 }
 .social a {
   color: var(--color-white);
-  width: min(25%, 10rem);
+  width: min(20%, 10rem);
 }
 .social i {
   color: var(--color-white);
@@ -459,6 +459,7 @@ section#contact {
   .social {
     flex-direction: column;
     align-items: center;
+    font-size: 1.2rem;
   }
   .social a {
     width: min(50%, 20rem);
