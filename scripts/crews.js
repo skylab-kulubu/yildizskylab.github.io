@@ -16,8 +16,8 @@ const crews = [
   ),
   new Crew(
     "Mobil Geliştirme Ekibi",
-    "Flutter Framework’ü ile cross-platform uygulama geliştiren, bunun eğitimini veren ve projeler geliştirerek bilgilerini pratiğe döken AR-GE ekibidir."
-	"sources/crew/mobil.png"
+    "Flutter Framework’ü ile cross-platform uygulama geliştiren, bunun eğitimini veren ve projeler geliştirerek bilgilerini pratiğe döken AR-GE ekibidir.",
+    "sources/crew/mobil.png"
   ),
   new Crew(
     "GAMELAB",
@@ -25,8 +25,8 @@ const crews = [
   ),
   new Crew(
     "AI Research",
-    "Yapay zekanın çeşitli alt disiplinlerinde araştırmalar yapan; makine öğrenmesi ve derin öğrenme alanlarında çalışan AR-GE ekibidir."
-	"sources/crews/air.png"
+    "Yapay zekanın çeşitli alt disiplinlerinde araştırmalar yapan; makine öğrenmesi ve derin öğrenme alanlarında çalışan AR-GE ekibidir.",
+    "sources/crews/air.png"
   ),
   new Crew(
     "ALGO LAB",
