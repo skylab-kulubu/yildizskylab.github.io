@@ -11,7 +11,7 @@ const crews = [
   // ekip oluşturma şeması:
   // new Crew("ekip ismi", "ekip açıklaması", "ekiple alakalı görsel(statik URL veya directory URL)")
   new Crew(
-    "Web Geliştirme Ekibi",
+    "WEBLAB",
     "Hem Front End, hem de Back End alanında araştırmalar yapan, eğitimler düzenleyen, projeler üreterek kendilerini geliştiren AR-GE ekibidir."
   ),
   new Crew(
@@ -19,7 +19,7 @@ const crews = [
     "Flutter Framework’ü ile cross-platform uygulama geliştiren, bunun eğitimini veren ve projeler geliştirerek bilgilerini pratiğe döken AR-GE ekibidir."
   ),
   new Crew(
-    "Oyun Geliştirme",
+    "GAMELAB",
     "Unity Engine kullanarak hem mobil hem de masaüstü oyun geliştiren bunların eğitimini veren, Game Jamlere katılan ve kendi aralarında düzenleyen; Steam, Play Store gibi çeşitli platformlarda oyunlarını paylaşmayı hedefleyen ekibimiz."
   ),
   new Crew(
@@ -37,7 +37,7 @@ const crews = [
     "sources/crews/skysec.jpeg"
   ),
   new Crew(
-    "SKYSIS",
+    "SKYSİS",
     "Gömülü sistemler ve IoT üzerine projeler geliştirmeyi hedefleyen; bu alanda pratik ve teorik eğitimler, atölye çalışmaları ve makale yazma gibi çalışmalar yapmayı amaçlayan ekiptir."
   ),
 ];
