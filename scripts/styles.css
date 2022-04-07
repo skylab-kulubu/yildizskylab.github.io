@@ -237,16 +237,22 @@ section#intro h3 {
   background-color: var(--color-red);
   clip-path: polygon(100% 100%, 100% 0, 0 100%);
 }
+ul.crews {
+  justify-content: space-around;
+}
+
 ul.crews > li {
+  flex-basis: 20%;
   height: 10rem;
   flex-direction: column;
-  padding-bottom: 0;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   cursor: pointer;
   background: #fff;
   background: linear-gradient(135deg, #ffffff 0%, #a7cfe3 100%);
   box-shadow: 0 0 0.5rem 0.2rem #0004;
+  line-height: 2rem;
+  text-align: center;
 }
 
 .crewinfo {
@@ -405,6 +411,7 @@ section#contact {
     width: 100%;
   }
   ul.crews > li {
+    flex-basis: initial;
     padding: 0.5rem;
     display: grid;
     grid-template-columns: 3rem 1fr;
