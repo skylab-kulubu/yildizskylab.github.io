@@ -12,7 +12,8 @@ const crews = [
   // new Crew("ekip ismi", "ekip açıklaması", "ekiple alakalı görsel(statik URL veya directory URL)")
   new Crew(
     "WEBLAB",
-    "Hem Front End, hem de Back End alanında araştırmalar yapan, eğitimler düzenleyen, projeler üreterek kendilerini geliştiren AR-GE ekibidir."
+    "Hem Front End, hem de Back End alanında araştırmalar yapan, eğitimler düzenleyen, projeler üreterek kendilerini geliştiren AR-GE ekibidir.",
+	"sources/crews/weblab.jpeg"
   ),
   new Crew(
     "Mobil Geliştirme Ekibi",
